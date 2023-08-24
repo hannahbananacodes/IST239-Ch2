@@ -1,0 +1,19 @@
+body {
+    background-image: url("background.jpg");
+    background-size: 100vw;
+    text-align: center;
+    background-color: black;
+}
+
+h1, h2, a, p {
+    color: white;
+}
+
+.majors {
+    background-color: rgba(255, 255, 255, 0.5);
+    font-style: italic;
+    font-weight: 700;
+    color: blue;
+    margin-left: 300px;
+    margin-right: 300px;
+}
